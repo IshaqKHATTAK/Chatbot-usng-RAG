@@ -1,0 +1,42 @@
+{
+          "1": {
+                    "timestamp": "2024-04-21 09:46:31",
+                    "items": "Pancake, Eggs",
+                    "quantity": "1, 2"
+          },
+          "2": {
+                    "timestamp": "2024-04-21 09:46:31",
+                    "items": "Yogurt, Samosa",
+                    "quantity": "1, 2"
+          },
+          "3": {
+                    "timestamp": "2024-04-21 09:46:31",
+                    "items": "Sandwich",
+                    "quantity": "1"
+          },
+          "4": {
+                    "timestamp": "2024-04-21 11:48:04",
+                    "items": "Salad, Roti",
+                    "quantity": "1, 2"
+          },
+          "5": {
+                    "timestamp": "2024-04-21 11:48:04",
+                    "items": "Cold Drink",
+                    "quantity": "2"
+          },
+          "6": {
+                    "timestamp": "21.04.2024 - 12:09",
+                    "items": "Cobb Salad",
+                    "quantity": "1"
+          },
+          "7": {
+                    "timestamp": "2024-04-21T12:20:47.862813",
+                    "items": "Pasta",
+                    "quantity": "1"
+          },
+          "8": {
+                    "timestamp": "Sunday, 28.04.2024 - 09.31",
+                    "items": "Cobb Salad",
+                    "quantity": "1"
+          }
+}
